@@ -1,0 +1,1001 @@
+ID,Device_Brand,Device_Material,Device_OS,Rooted,Cost
+1,Asus,Plexiglass,,,
+2,Meizu,Glass,Android OS,false,9880.16
+,Nokia,Rubber,"Android 9.0, Android One",true,5052.25
+,Philips,Plexiglass,,true,6779.84
+,Nokia,Rubber,"Symbian 8.0, Series 60 v2.0 UI",false,
+6,T-Mobile,Stone,Android 10,false,1940.15
+7,Nokia,Stone,Feature phone,false,
+8,Motorola,Plastic,"Linux, JUIX UI",true,3059.71
+9,,Stone,Android 4.0.4,false,4925.13
+10,LG,Brass,Android 4.4.2,true,9175.36
+,Motorola,,Feature phone,false,5729.07
+12,BlackBerry,Brass,"BlackBerry OS 10.2, up to 10.3.1",true,564.29
+,Nokia,Plastic,Feature phone,false,6198.12
+,Realme,Rubber,"Android 10, Realme UI",false,6404.83
+15,Oppo,Aluminum,"Android 9.0, planned upgrade to 10",,3661.81
+,alcatel,Plastic,Android 2.3,true,8404.32
+17,Lava,Glass,Android 2.3,,5220.62
+,NEC,Steel,Feature phone,,7565.78
+19,,Steel,,true,
+20,,,Android 7.1,false,7070.49
+21,,Plastic,Android 5.1.1,true,8052.42
+22,HTC,Vinyl,Android 10,false,5668.13
+23,Sony,,Feature phone,true,1639.26
+24,,Rubber,Feature phone,true,8719.7
+,Tecno,Aluminum,Android 8.1 Oreo,true,4912.23
+26,,Plastic,Android 9.0,false,
+27,,Plastic,Feature phone,false,
+,Samsung,Brass,Feature phone,,9842.43
+29,Sony,Glass,"Android 2.3, up to 4.0.4",false,3588.09
+30,alcatel,Brass,Android 5.0,true,8325.85
+31,Samsung,Plexiglass,Feature phone,true,1894.17
+32,Honor,Plexiglass,Android 10,false,8646.65
+33,Samsung,Rubber,"Android 5.1.1, up to 7.0",false,
+34,Samsung,Glass,bada OS,false,8335.98
+35,alcatel,,Android 4.3,true,3744.14
+36,Google,,"Android 7.1, up to Android 10",false,7527.29
+,Sony,Aluminum,Android 2.3,true,3633.95
+,Motorola,Stone,Microsoft PocketPC 2003 SE,true,2377.91
+,Nokia,Aluminum,,false,
+,Vertu,Steel,Android 4.4.2,true,8336.39
+41,LG,Brass,Feature phone,true,3706.31
+42,Samsung,Stone,"Android 2.3, up to 4.0, TouchWiz UI 4",true,3308.62
+43,,Plastic,Feature phone,false,434.34
+44,vivo,Stone,"Android 5.1, Funtouch 2.1",true,
+45,Wiko,Aluminum,Android 7.1,false,
+,Celkon,Brass,Feature phone,false,3706.51
+47,Plum,Plastic,Android 4.2,,9831.18
+48,alcatel,Wood,,true,9069.84
+49,Celkon,Plexiglass,Feature phone,false,382.76
+50,Oppo,Stone,"Android 9.0, ColorOS 6",true,7735.63
+51,Philips,Aluminum,Feature phone,false,5371.07
+52,ZTE,Granite,"Android 2.1, up to 2.2",true,7963.32
+53,Xiaomi,Glass,"Android 9.0, up to Android 10, MIUI 12",,9595.97
+54,Microsoft,Plastic,Microsoft Windows 10,true,1710.49
+55,Philips,Aluminum,Android 4.0.4,false,
+56,Samsung,Plexiglass,"Android 2.1, up to 2.2",true,6111.68
+57,Lava,Glass,,true,5406.22
+58,Sony,Granite,"Android 5.0, up to 5.1",false,400.68
+59,,Granite,Feature phone,false,2447.66
+60,LG,,,false,8719.86
+61,BlackBerry,Steel,"BlackBerry OS 10.2, up to 10.3.1",false,
+62,LG,Vinyl,"Android 2.1, up to 2.2",true,453.56
+,LG,Plastic,Feature phone,,3033.44
+64,Sagem,Aluminum,Feature phone,true,
+65,Micromax,Glass,Android 2.3.5,true,8678.77
+66,Lenovo,Vinyl,,false,3173.77
+67,Toshiba,Wood,Feature phone,false,795.25
+68,Celkon,Plexiglass,,false,8829.87
+,Bosch,Rubber,Feature phone,false,128.98
+70,Asus,Glass,"Android 10, up to Android 11, ROG UI",true,4830.55
+71,Gigabyte,Granite,Android 1.6,,9085.43
+72,Honor,,"Android 5.0, up to 6.0, EMUI 3.1",false,5655.93
+73,NEC,Glass,Feature phone,true,276.94
+74,Acer,Vinyl,"Android 4.0, up to 4.1",true,5430.57
+,Motorola,Wood,,true,8807.24
+,,Steel,Feature phone,false,8121.14
+77,LG,,Android-based OPhone OS,true,7037.46
+78,,Plastic,,true,7496.17
+79,Realme,Brass,"Android 10, Realme UI",false,
+80,BlackBerry,Granite,BlackBerry OS 10.3.1,,7173.13
+81,Asus,Wood,"Android 6.1, up to Android 8.0",false,580.82
+82,Motorola,Stone,Feature phone,false,467.96
+83,Samsung,Stone,Feature phone,true,2590.28
+84,Bird,,Feature phone,false,
+85,Oppo,Steel,"Android 11, ColorOS 11.1",true,1943.7
+86,Vodafone,Wood,Android 4.4.2,true,
+87,Samsung,Rubber,Feature phone,false,5078.16
+88,Samsung,,Feature phone,true,
+89,ZTE,Granite,Feature phone,false,2773.78
+90,Huawei,Wood,Feature phone,true,2908.65
+,,Glass,MeeGo OS,true,
+92,Gigabyte,Stone,Microsoft Windows Mobile 5.0 for &hellip;,false,440.92
+93,alcatel,Granite,Feature phone,true,3492.13
+94,Sagem,Aluminum,Feature phone,true,3097.61
+95,,Steel,Feature phone,true,1063.24
+96,Asus,Plastic,,false,
+97,,Steel,Android 4.4.2,true,6247.32
+,BlackBerry,Aluminum,BlackBerry OS 7.1,true,
+99,Samsung,,"Android 9.0, up to Android 11, One UI 3.0",true,6953.84
+100,Philips,Plexiglass,,true,3164.61
+101,Huawei,Brass,"Android 8.1, EMUI 8.2",false,9976.8
+102,O2,Plexiglass,Microsoft Windows Mobile 2003 SE PocketPC,false,4765.47
+103,,Plexiglass,"Android 4.0.3, up to 4.1, TouchWiz UX UI",false,5057.43
+,HTC,Granite,"Android 5.1, Sense 7 UI",true,157.4
+,vivo,Vinyl,"Android 10, iQOO UI 1.0",false,785.37
+106,Samsung,Stone,Tizen OS 4.0,false,2627.71
+107,verykool,Vinyl,Feature phone,false,245.18
+108,HTC,Aluminum,"Android 2.3.4, up to 4.0, Sense UI 3.6",true,9826.83
+109,Samsung,Steel,Android 2.3,false,3528.51
+110,LG,Steel,Android 4.1.2,false,9052.72
+111,,Granite,"Android 9.0, up to Android 11",false,2859.14
+112,Realme,Plexiglass,"Android 10, up to Android 11, Realme UI 2.0",true,6086.33
+113,Celkon,Glass,Feature phone,false,4343.07
+114,Xiaomi,Steel,"Android 10, MIUI 12",,6370.19
+115,Blackview,Steel,Android 7.0,false,3894.46
+116,vivo,Brass,"Android 11, OriginOS 1.0",false,4428.76
+117,Samsung,Wood,Feature phone,true,885.84
+118,Micromax,Steel,Android 4.4.2,,5035.64
+119,HTC,Glass,Android 10,true,8796.48
+120,BLU,Glass,,false,3134.64
+121,Asus,Plastic,"Android 7, ZenUI 4",true,3093.2
+122,Motorola,Brass,Feature phone,false,5097.96
+123,Lava,,Android 7.1,,4431.25
+124,HTC,Brass,"Android 4.2.2, Sense UI 5.1",false,7525.09
+125,,Plastic,"Android 9.0, up to Android 10, EMUI 10",,1728.85
+126,verykool,Stone,Android 6.0,false,5384.72
+127,Eten,Granite,Microsoft Windows Mobile 5.0 PocketPC,true,9868.04
+128,LG,Rubber,"Android 6.0, up to 7.0",false,5329.58
+129,alcatel,Rubber,Android 2.3,true,2533.69
+130,NEC,Rubber,Feature phone,false,5064.96
+131,OnePlus,Wood,"Android 10, OxygenOS 10.5",true,1571.44
+132,BLU,,Android 10,false,6357.65
+133,Philips,Aluminum,Feature phone,true,9811.06
+134,Samsung,Granite,"Android 2.3, TouchWiz UX UI",true,6196.95
+135,Bird,Plastic,Feature phone,false,1192.62
+136,Icemobile,Vinyl,Android 4.4.2,true,7010.55
+137,Celkon,Rubber,,false,7660.2
+138,Meizu,Vinyl,,,7577.72
+139,Infinix,Glass,,,7311.52
+140,HTC,Granite,,,493.89
+141,BlackBerry,Stone,"BlackBerry OS 5, up",true,8245.68
+142,Yezz,Glass,,false,8986.47
+143,ZTE,Glass,Android 6.0,false,218.02
+144,XOLO,Wood,Android 4.2,,6611.74
+145,Lava,Steel,,false,2622.71
+146,Micromax,Granite,Android 2.3,false,8296.89
+147,Samsung,Glass,Feature phone,,1214.39
+148,LG,Rubber,Feature phone,true,8037.44
+149,,Plastic,Android 5.1,false,
+150,Huawei,Brass,,,3841.54
+151,Micromax,,Android 4.2,,4839.37
+152,Yezz,Stone,Feature phone,false,6968.48
+153,Celkon,Wood,Android 4.2.1,true,4517.42
+154,,,Android 6.0.1,false,7100.5
+,Samsung,Aluminum,Tizen 2.3,true,5049.43
+156,ZTE,Plexiglass,Android 4.0,false,3830.96
+157,Haier,Steel,Feature phone,true,3626.03
+158,i-mate,Rubber,Microsoft Windows Mobile 5.0 Smartphone,true,8854.91
+159,Panasonic,Vinyl,,false,684.39
+160,Prestigio,Plastic,Android 4.2,false,
+161,Gionee,Glass,Android 4.0,false,1792.81
+162,Spice,Plastic,Feature phone,false,6079.4
+163,Motorola,Brass,Feature phone,true,3343.32
+164,OnePlus,Granite,"Android 7.1.1, up to 10, OxygenOS 10.0.0",,5866.59
+165,Motorola,Wood,,false,8513.22
+166,BLU,Granite,Android 4.4.2,false,7717.28
+167,Huawei,Stone,Android 4.0,true,6840.05
+168,ZTE,Granite,,true,
+169,Huawei,Glass,"Android 7.0, EMUI 5.1",false,3710.85
+,WND,Aluminum,,false,6576.03
+171,Nokia,Wood,"Android 9.0, up to Android 10, Android One",false,7592.47
+172,Samsung,Brass,,false,2897.69
+173,Huawei,Vinyl,"Android 10, EMUI 11, no Google Play Services",true,2802.87
+,Icemobile,,Android 4.4.2,true,4472.92
+175,,Vinyl,Android 9.0,true,4623.44
+176,XOLO,Wood,,true,1659.34
+177,Meizu,Steel,"Android 4.4.4, Flyme 4",true,5310.23
+178,Yezz,Plastic,,true,9359.86
+179,Infinix,Glass,Android 10,false,606.08
+180,alcatel,,Feature phone,false,475.54
+181,Plum,Glass,Feature phone,true,5161.39
+182,alcatel,Granite,Android 2.2,true,4103.18
+183,Nokia,,Feature phone,true,5664.55
+184,Siemens,Vinyl,Feature phone,,8820.07
+185,LG,Steel,"Android 7.0, up to Android 8.1",false,9111.85
+186,Maxon,Glass,Feature phone,true,8022.04
+187,Samsung,Glass,"Android 4.4.2, up to 5.0.1, TouchWiz UI",,7780.85
+188,Xiaomi,,"Android 10, MIUI 11",true,2870.75
+189,Nokia,Plastic,Feature phone,false,1012.15
+190,,Granite,Feature phone,true,9415.17
+191,LG,Granite,Feature phone,true,1242.52
+,Samsung,Glass,Feature phone,false,9974.44
+193,Huawei,Wood,"Android 7.0, up to Android 9.0, EMUI 9.1",false,6104.83
+194,Sagem,Plastic,Feature phone,false,1035.74
+195,BLU,Glass,Android 6.0,false,8696.36
+196,Prestigio,Plastic,Android 4.1,,9752.52
+197,Samsung,Aluminum,Feature phone,true,4075.81
+198,verykool,Wood,Feature phone,true,3375.94
+199,LG,Stone,Feature phone,false,6828.42
+200,Prestigio,Glass,Android 4.1,true,9041.33
+201,ZTE,Brass,Feature phone,false,8960.69
+202,Asus,Brass,"Android 7.1.1, up to Android 8, ZenUI 4",true,
+203,Samsung,Glass,,false,9947.99
+204,Allview,Wood,Android 4.2.2,false,932.18
+205,NEC,Stone,Feature phone,true,6557.79
+206,Acer,Stone,Microsoft Windows Mobile 6.5 Professional,false,8460.5
+207,Samsung,Steel,"Android 4.4.4, up to 5.1.1",false,8079.01
+208,VK,,Feature phone,false,1110.07
+,,Plexiglass,Android 6.0,,5860.55
+210,Sagem,Glass,Feature phone,true,6104.7
+211,Nokia,Aluminum,"Symbian, S60 rel. 3.2",true,2099.8
+212,Haier,Stone,Feature phone,false,
+213,Samsung,Steel,Feature phone,,8669.93
+214,Intex,Glass,Android OS compatible,true,5356.94
+,Amazon,Vinyl,Android 4.0,true,9481.43
+216,HP,Plexiglass,Android 4.4.2,false,4083.82
+217,LG,Rubber,Feature phone,true,1261.03
+,,Stone,"Symbian, S60 rel. 3.2",false,1584.65
+219,Micromax,Aluminum,Android 5.0.2,false,3072.91
+220,,Steel,Feature phone,true,2323.28
+221,Motorola,Plastic,Android 1.6,false,857.1
+,Gigabyte,Stone,Android 2.3,false,7554.33
+,Philips,Rubber,Feature phone,false,7542.22
+224,Samsung,,Feature phone,false,6263.91
+225,Huawei,Plexiglass,"Android 7.1, EMUI 5.1",false,4523.61
+226,,Aluminum,"Android 10, HIOS 6.2",false,3403.94
+227,BLU,Glass,Android 8.1,true,7865.54
+228,Samsung,Wood,"Android 4.3, TouchWiz UI",false,
+229,Nokia,Granite,Microsoft Windows Phone 8.1,true,2312.29
+230,Motorola,Steel,"Android 10, up to Android 11",false,6113.48
+,alcatel,Wood,Android 6.0,false,5980.56
+232,ZTE,Brass,Android 4.0,false,8848.87
+233,Spice,Stone,Android 4.2,false,221.32
+234,Samsung,Granite,Feature phone,,4038.88
+235,BenQ-Siemens,Stone,,true,9664.89
+236,,,"Android 9.0, ColorOS 6",,
+,Maxwest,Brass,Feature phone,,9270.72
+238,Infinix,,,true,4947.1
+239,Samsung,Aluminum,Feature phone,true,1375.3
+,Sagem,Wood,Feature phone,true,6222.08
+241,,,Microsoft Windows Mobile 2003 SE PocketPC,true,5894.78
+242,QMobile,Aluminum,"Android 4.2, up to 4.4",,
+,Lenovo,Plastic,Android 10,true,
+244,Sony,Granite,Feature phone,true,5335.85
+245,BLU,,Android 6.0,false,1485.21
+246,Siemens,,Feature phone,false,5418.43
+247,Micromax,,,true,4052.45
+248,Pantech,Rubber,Feature phone,true,3055.17
+249,Oppo,Plexiglass,"Android 10, ColorOS 7.2",true,2627.32
+250,Samsung,Glass,Feature phone,true,7327.85
+251,QMobile,Wood,,true,7546.87
+252,Sony,Plastic,Feature phone,false,7461.47
+253,alcatel,Rubber,Android 4.1.2,true,6040.1
+254,vivo,,"Android 9.0, Funtouch 9.2",false,799.96
+255,alcatel,,Feature phone,false,3603.09
+256,,Stone,"Android 2.3, up to 2.3.5, Sense UI 2.1",false,2076.12
+257,XOLO,Brass,Android 4.2.2,true,3756.23
+,Samsung,Aluminum,"Android 4.4.4, up to 7.0",true,
+,Nokia,Brass,Feature phone,false,329.92
+260,ZTE,Wood,Android 4.0,true,8107.81
+261,Panasonic,Granite,Feature phone,true,562.21
+,Sony,Glass,Feature phone,true,2010.92
+263,BLU,Rubber,Feature phone,true,3523.54
+264,Motorola,,Android 2.3.4,true,7632.97
+265,Samsung,Brass,Proprietary OS,true,800.51
+266,Sagem,Aluminum,Feature phone,true,3358.61
+267,LG,Steel,Feature phone,false,8027.22
+268,alcatel,Stone,Android 6.0,false,5531.14
+269,O2,Granite,,false,2144.45
+270,Samsung,Wood,Android 1.5,true,
+,Celkon,Vinyl,Android 4.4.2,false,3668.1
+272,Samsung,Plexiglass,Feature phone,true,9412.32
+273,Motorola,Stone,Android 2.1,,6388.42
+274,,Glass,Feature phone,true,9212.57
+275,Micromax,Plexiglass,Android 6.0,true,4391.75
+,Sony,Steel,Feature phone,true,7227.8
+277,i-mate,Stone,,false,1495.67
+278,Bird,Steel,Feature phone,false,1825.17
+279,XOLO,Plastic,Android 4.2.2,true,
+280,Samsung,Granite,Feature phone,,4911.45
+281,Honor,Aluminum,"Android 10, Magic UI 3.1",true,1218.26
+282,,Plastic,Feature phone,false,6523.12
+283,Micromax,Rubber,,false,2358.58
+284,,Plastic,,false,
+285,QMobile,Plexiglass,Android 4.4.2,false,9897.68
+286,Nokia,Stone,"Symbian OS 9.3, Series 60 v3.2 UI",true,4990.65
+287,Sonim,Stone,Feature phone,true,1707.75
+288,Huawei,Plexiglass,"Android 5, up to 6, EMUI 3",,
+289,alcatel,,Feature phone,true,4198.62
+,Samsung,,"Microsoft Windows Phone 8, up to 8.1.1",true,2350.11
+291,QMobile,Aluminum,,false,4860.76
+292,verykool,Granite,Android 4.2.1,true,1352.42
+293,Xiaomi,Granite,"Android 6.0.1, MIUI 10",false,251.74
+294,NEC,Stone,Feature phone,false,8651.37
+295,Celkon,Granite,Android 4.0,false,2909.44
+296,Spice,,Feature phone,false,1584.39
+297,Kyocera,Plastic,Android 2.3,true,4358.54
+298,LG,Granite,"Android 9.0, LG UX 9.0",true,3476.89
+299,ZTE,Stone,"Android 9.0, up to Android 10, MiFavor 10.0",false,8888.22
+,Nvidia,Plastic,"Android 4.4.2, up to 7.0",false,
+301,Celkon,Glass,Feature phone,true,667.86
+302,Acer,Granite,Microsoft Windows Mobile 6.1 Professional,false,5655.68
+303,BLU,Brass,Microsoft Windows Phone 8.1,true,6139.47
+304,,Stone,Feature phone,false,2281.35
+,Micromax,Plexiglass,,true,1194.57
+306,,Aluminum,"Microsoft Windows Phone 8, up to 8.1",,8957.6
+,HTC,,"Android 4.4.2, Sense UI 5.5",false,6101.43
+308,LG,Stone,Feature phone,true,1595.06
+,HTC,Rubber,Android 1.6,,1571.27
+310,Icemobile,,Android 4.4.2,,7721.81
+311,Nokia,Plastic,Nokia Belle OS,,2051.52
+312,verykool,Granite,Android 7.0,true,5894.45
+313,Lava,,Android 8.1,false,1701.06
+314,Sony,Plexiglass,"Android 5.0, up to 6.0",true,5141.01
+315,Samsung,Steel,,false,7602.32
+,Samsung,Aluminum,Feature phone,true,2168.59
+317,Motorola,Stone,"Android 4.0.4, up to 4.4",false,9894.35
+318,vivo,Rubber,"Android 6, Funtouch 3",true,3693.94
+,Huawei,Aluminum,Feature phone,,9996.18
+320,ZTE,Steel,Android 9.0 Pie,true,6243.88
+321,Realme,,"Android 10, up to Android 11, Realme UI 2.0",false,3616.78
+322,Infinix,Granite,Android 9.0,false,9399.76
+323,Amazon,Steel,,true,8080.06
+324,Honor,Steel,"Android 10, Magic UI 3.1",false,4046.39
+325,Motorola,Steel,"Android 2.3, up to 4.0",false,
+326,Sony,,"Android 4.0.4, up to 4.3",false,8721.41
+327,Palm,Brass,Microsoft Windows Mobile 6.1 Professional,,4245.44
+,verykool,Wood,Android 2.3,true,9791.99
+329,Infinix,Steel,"Android 10, XOS 7.1",false,3150.17
+330,Samsung,Aluminum,Android 4.1.2,false,
+331,ZTE,,Android 4.2,true,
+332,alcatel,Plexiglass,Feature phone,false,6544.94
+333,Amoi,,Feature phone,,562.13
+334,Huawei,Rubber,"Android 4.0, up to 4.1",false,
+335,O2,Granite,Microsoft Windows Mobile 2003 for&hellip;,true,7251.37
+336,BLU,,"Android 4.4.2, up to 5.0",true,7862.35
+337,BLU,Glass,,false,
+338,Micromax,Aluminum,Android 4.4.2,true,5023.24
+,,Wood,Feature phone,,2490.73
+340,XOLO,Rubber,"Android 5.0 , HIVE Atlas UI",false,5192.98
+341,Yezz,,Android 4.4,true,1571.55
+342,Spice,Steel,Feature phone,false,2750.12
+343,Lava,Plexiglass,Android 6.0,true,9314.95
+,Infinix,Steel,"Android 10, XOS 6.2",true,9216.81
+345,,Stone,Feature phone,true,8375.28
+,Samsung,Aluminum,,false,7099.51
+347,alcatel,Aluminum,Feature phone,true,4155.36
+348,Benefon,Rubber,Feature phone,true,
+,Spice,Steel,Feature phone,false,5584.29
+350,Bird,Wood,,false,1025.68
+351,Allview,Glass,Android 7.0,true,3166.33
+352,Wiko,Aluminum,Android 6.0.1,true,2310.53
+,Sagem,Granite,Feature phone,false,2632.38
+354,Vodafone,Granite,Android 8.1 Oreo,false,6353.86
+355,,Plexiglass,,true,7467.48
+356,Wiko,Aluminum,Android 5.1,true,4769.41
+357,Ericsson,Glass,Feature phone,false,
+358,LG,,,false,
+359,Samsung,Vinyl,Feature phone,false,9935.41
+360,OnePlus,Aluminum,"Android 5.1.1, up to 6.0.1, OxygenOS 2.2.3",false,9315.13
+361,Lava,Vinyl,,false,5651.68
+362,Micromax,Plastic,,true,6551.58
+,Apple,Brass,"watchOS 7.0, up to 7.6",false,3237.89
+,Meizu,Rubber,"Android 9.0, Flyme 7.2",,7584.91
+365,,Vinyl,"Android 1.6, Sense UI",false,7791.61
+366,Siemens,Aluminum,Feature phone,false,1715.4
+367,BLU,Vinyl,Android 10,true,8967.44
+368,Sagem,Rubber,,false,2806.91
+,Sewon,Granite,Feature phone,true,7848.23
+370,alcatel,Vinyl,Feature phone,,8021.96
+371,Acer,Plastic,"Android 4.2, Float UI",false,9763.6
+372,alcatel,Plexiglass,Feature phone,false,4428.74
+373,Sony,Stone,"Android 2.3.4, up to 4.0",true,3655.4
+374,Spice,Brass,Android 4.1,true,7131.91
+375,XOLO,Vinyl,"Android 4.3, up to 4.4.2",true,8324.61
+376,BLU,Aluminum,Android 6.0,false,2808.37
+377,Oppo,,,false,817.26
+378,Huawei,Granite,Android 4.2,,
+379,alcatel,Plexiglass,Feature phone,,2477.69
+380,Toshiba,,Android 4.0,false,1684.28
+381,Nokia,Stone,Feature phone,true,5666.15
+382,alcatel,Granite,,false,5562.44
+383,alcatel,Plastic,Feature phone,true,6427.16
+,Samsung,Stone,Feature phone,true,4514.44
+385,Samsung,Glass,Feature phone,true,
+,BLU,Aluminum,Android 5.0,true,1397.98
+387,Huawei,Glass,"Android 10, EMUI 10",false,6620.03
+388,Lava,Rubber,Android 4.4.2,false,
+,Yezz,Stone,Feature phone,true,7680.01
+390,Samsung,Brass,"Android 5.1.1, up to 7.1",false,6799.88
+391,LG,Glass,Feature phone,false,633.21
+392,Allview,Aluminum,Android 2.3.6,false,211.62
+393,Xiaomi,,"Android 8.1, up to Android 10, MIUI 12",false,8822.27
+,Orange,,Android 3.2,true,1754.37
+395,Spice,Rubber,Android 4.4.2,true,6719.82
+396,Micromax,Aluminum,Android 5.0.2,false,7992.21
+397,,Vinyl,Android 4.2,false,5463.89
+398,Asus,Glass,"Android 3.0, 3.2, up to 4.0",false,2394.37
+399,Tecno,Steel,"Android 10, HIOS 6.0",true,9261.86
+400,Acer,Aluminum,"Android 3.0, up to 4.0",true,3029.83
+401,Samsung,Plastic,Feature phone,false,6168.98
+402,Asus,Stone,"Android 8.1, up to Android 9.0",false,5448.77
+403,Ulefone,Rubber,Feature phone,false,1809.75
+,Samsung,Granite,"Android 9.0, up to Android 10, One UI 2.0",true,5053.25
+405,ZTE,Aluminum,"Android 6, nubia UI 4",false,5880.87
+406,LG,Brass,Android 2.3,true,5596.84
+407,Samsung,Granite,Feature phone,false,8336.97
+,ZTE,Rubber,Android 5.1,true,3499.67
+409,Coolpad,Steel,"Android 6.0.1, eUI 5.8",false,3406.93
+410,Samsung,Brass,Feature phone,true,3332.55
+411,HTC,Glass,Feature phone,false,2321.29
+412,Sony,Plastic,Feature phone,false,6013.41
+413,Samsung,,Feature phone,false,
+414,,Plastic,Android,false,
+415,Nokia,Wood,Nokia Belle OS,false,
+416,Gigabyte,Plastic,Microsoft Windows Mobile 6.1 Professional,,3674.18
+417,,Brass,"Android-based, OMS 2.5",false,3588.54
+418,LG,Plexiglass,Android 4.4.2,true,6167.28
+419,LG,Vinyl,Feature phone,true,
+420,Huawei,Wood,"Android 10, EMUI 10, no Google Play Services",false,4821.32
+421,alcatel,Vinyl,Android 4.1,,
+422,BLU,Plastic,Feature phone,,5060.31
+423,ZTE,,"Android 7.0, MiFavor 4.2",false,3217.61
+424,,,Android 7.0,true,2617.66
+425,Chea,Stone,Feature phone,true,3316.78
+426,Samsung,Plexiglass,,false,7950.89
+427,Sony,Rubber,"Android 4.3, up to 5.1.1",false,1447.05
+428,Sony,,Feature phone,true,7370.5
+429,BLU,Aluminum,Feature phone,false,8546.94
+430,vivo,Rubber,"Android 5.1, Funtouch 2.5",false,2291.6
+431,alcatel,Granite,Feature phone,true,8433.69
+432,Tecno,Aluminum,,,2559.42
+433,Innostream,Aluminum,Feature phone,true,7622.63
+434,Vodafone,Stone,,,5044.73
+435,Honor,Rubber,Android 4.0,true,
+436,,Steel,Feature phone,false,9841.95
+,verykool,Granite,Android 7.0,false,
+,,Brass,Android 4.4.2,,5393.37
+439,Vodafone,,Android 8.1,true,2062.93
+440,Samsung,Glass,"Android 10, up to Android 11, One UI 3.1",true,5153.8
+441,Sony,,Feature phone,,2815.88
+442,ZTE,Rubber,"Android 2.1, up to 2.2",true,4066.14
+443,Nokia,Aluminum,Feature phone,true,606.5
+,,Rubber,"Android 6.0, up to 7.0, EMUI 4.1",false,2259.07
+445,Samsung,Aluminum,Feature phone,false,2453.7
+446,QMobile,Rubber,Android 6.0,false,6654.52
+447,Lenovo,Vinyl,Android 2.3,,269.97
+448,,Wood,Android 5.1,false,9594.89
+449,Micromax,Plexiglass,Android 4.0.3,true,7992.87
+450,Honor,Plastic,"Android 9.0, EMUI 9",true,6829.75
+451,T-Mobile,Steel,"Android 3.2, up to 4.0",false,7034.7
+452,ZTE,Wood,Feature phone,true,6132.92
+453,Samsung,Granite,,true,8390.58
+454,,Steel,Android 4.2,true,3500.08
+455,HP,Aluminum,Microsoft Windows 10,false,2390.71
+456,Micromax,,Android 5.0,false,3362.48
+457,Wiko,Steel,Android 7.1,,6544.11
+458,Lenovo,,Android 4.0.4,,4849.06
+459,Asus,Stone,Android 5.0,true,9348.34
+460,BLU,Rubber,Android 5.1,,
+461,Nokia,Plexiglass,"Symbian OS 9.1, Series 60 UI",false,5795.82
+462,Apple,Vinyl,"iOS 3, up to iOS 6.1.6",false,3938.07
+463,Nokia,Wood,"Symbian OS 9.1, S60 rel. 3.0u",false,5247.56
+464,Allview,,,false,4064.77
+465,Infinix,Steel,Android 7.0,true,9305.91
+466,alcatel,,Feature phone,,4780.31
+467,Celkon,Plastic,Android 2.3.6,false,8473.71
+468,Ulefone,Brass,,false,5213.29
+469,BLU,Plastic,Feature phone,true,3823.11
+470,,Glass,Feature phone,false,
+471,Samsung,Vinyl,Feature phone,,7635.13
+472,Nokia,,"Microsoft Windows Phone 8.1, up to Windows 10",false,8778.0
+473,Posh,Plexiglass,Android 5.1,false,
+474,LG,Vinyl,"Android 4.1.2, up to 4.4.2",,7761.37
+475,Micromax,Plexiglass,Android 4.0,false,9817.61
+476,Vodafone,Steel,Feature phone,false,3536.94
+477,Huawei,Glass,"Android 8.0, EMUI 8",,8170.4
+478,,Brass,Android 4.1,false,6182.45
+479,Energizer,,Feature phone,,6287.46
+480,LG,Rubber,Feature phone,false,
+481,Motorola,Stone,Feature phone,true,7595.56
+482,Nokia,Rubber,"Symbian OS 9.1, S60 3rd edition",false,3710.77
+483,O2,Vinyl,Microsoft Windows Mobile 5.0 PocketPC,false,4331.42
+484,,Aluminum,Feature phone,true,4507.14
+485,Amoi,Vinyl,Feature phone,false,9311.64
+,Asus,Brass,Microsoft Windows Phone 7,true,8587.92
+487,i-mobile,Brass,Feature phone,true,2591.23
+488,Celkon,Glass,Android 4.4.2,true,6550.25
+489,Samsung,Plastic,,true,6691.64
+490,LG,,Feature phone,false,
+491,Samsung,Granite,Feature phone,false,5484.97
+492,Lava,Vinyl,,true,5856.13
+493,QMobile,Plexiglass,,true,2639.47
+494,Samsung,Stone,Android 2.1,true,8848.53
+495,Realme,Rubber,"Android 10, Realme UI",false,
+,,Vinyl,Android 6.0.1,true,7038.55
+497,Samsung,Brass,"Android 10, One UI 2.1",false,5930.82
+498,Philips,Rubber,Feature phone,true,6300.86
+499,Apple,Granite,"iOS 12, up to iPadOS 14.6",true,1124.08
+500,Samsung,Aluminum,Feature phone,false,
+501,alcatel,Stone,Feature phone,true,831.47
+502,Oppo,Granite,"Android 11, ColorOS 11.1",false,
+503,Samsung,Brass,Feature phone,true,4296.94
+504,LG,Granite,Android 6.0,true,4122.36
+505,Motorola,Brass,,false,2735.01
+506,Archos,Granite,Android 4.4.2,false,
+507,Allview,,Android 5.1,false,2996.91
+,Nokia,Vinyl,Feature phone,true,
+509,Lenovo,,Android 4.1,false,9498.71
+510,Haier,Plastic,Feature phone,true,
+511,Realme,Brass,"Android 10, Realme UI",,7818.06
+512,Sony,Plastic,"Symbian 7.0, UIQ v2.0 UI",true,209.41
+513,,,"Android 4.3, up to 5.0.2",false,9613.7
+514,LG,Steel,Feature phone,true,684.71
+515,Pantech,Rubber,Feature phone,true,7409.37
+516,Infinix,Wood,Android 8.1,false,213.86
+517,Nokia,Vinyl,Feature phone,true,8683.53
+518,vivo,Plastic,"Android 10, Funtouch 11",false,9580.36
+519,Celkon,Wood,Feature phone,false,1328.27
+520,Infinix,Plexiglass,Android 10,true,
+521,Samsung,Glass,Android 4.1.2,true,1968.25
+522,Xiaomi,Granite,"Android 10, up to Android 11, MIUI 12",true,1137.42
+523,QMobile,Glass,Android 4.2.2,true,7331.14
+524,OnePlus,,,false,2249.91
+525,,Vinyl,"Android 6.0, Amigo 3.5",true,8929.87
+526,Motorola,Aluminum,Feature phone,,8596.79
+527,Micromax,Granite,Feature phone,false,8742.68
+528,Icemobile,Vinyl,Android 4.2.1,true,8324.52
+529,Samsung,Glass,Feature phone,true,
+530,OnePlus,Aluminum,"Android 5.1.1, up to 6.0.1, OxygenOS 2.2.3",true,2362.7
+,Micromax,Vinyl,Android 5.1,true,5919.57
+,Motorola,Plexiglass,Feature phone,true,6996.92
+533,Asus,Granite,"Android 5.0, up to 6.0, ZenUI",true,5940.26
+534,Nokia,Vinyl,,false,2629.67
+535,Gionee,Plastic,Android 4.2,false,4976.41
+,OnePlus,Brass,,false,6956.29
+,Nokia,Rubber,Feature phone,true,2107.78
+538,,Stone,BlackBerry OS,false,6545.52
+539,LG,Plastic,Feature phone,true,4569.39
+540,Pantech,Vinyl,Feature phone,true,8016.24
+541,Huawei,Granite,"Android 9.0, EMUI 9.1",true,7765.65
+542,,Granite,Feature phone,false,4369.83
+543,,Stone,,true,5590.79
+,Samsung,Brass,"Android 4.1, up to 4.1.2, TouchWiz UI",,3057.81
+545,Asus,Vinyl,"Android 4.1.2, up to 5.1.1",,2498.43
+546,,Rubber,Feature phone,true,9255.82
+547,Nokia,Granite,Feature phone,true,6983.66
+548,Sony,,Feature phone,false,6209.74
+549,vivo,Plexiglass,"Android 10, Funtouch 10.5 or Funtouch 11",true,3587.91
+,Asus,Vinyl,,false,1050.65
+551,Micromax,Rubber,Android 4.1.2,true,5320.13
+552,,Brass,Android 10,false,1999.11
+553,Huawei,Plexiglass,"Android 6.0, EMUI 4.1",true,6012.01
+554,LG,Plexiglass,Feature phone,false,8211.18
+555,Samsung,Aluminum,"Android 7.1.1, up to Android 9.0",,8567.63
+556,alcatel,Brass,Feature phone,,3242.89
+557,BLU,Glass,Microsoft Windows Phone 8.1,false,6902.4
+558,Micromax,Aluminum,Android 10,false,2984.65
+559,Maxwest,Rubber,Android 6.0,true,8206.98
+,Sendo,Vinyl,Feature phone,true,7385.07
+561,,Brass,Android 4.4.4,true,2617.46
+562,Haier,Rubber,Feature phone,false,7043.44
+563,,Aluminum,"Android 8.0, up to Android 10, MIUI 12",false,6636.33
+,Samsung,Plastic,Feature phone,false,2388.22
+565,Micromax,Brass,Android 4.0.3,,3417.81
+566,ZTE,Granite,Android 4.4.2,true,3030.97
+567,Palm,Plastic,Palm 5.2.1H,false,2973.11
+568,LG,Vinyl,"Android 5.0.1, up to 6.0.1",true,4939.22
+569,HP,Steel,Microsoft Windows Mobile 2003 Poc&hellip;,false,5294.13
+570,Lenovo,Rubber,Android 9.0,false,8012.77
+,Nokia,Plexiglass,"Symbian, S60 rel. 3.2",true,
+572,i-mate,Glass,Microsoft Windows Mobile 2003 SE Smartphone,false,8846.33
+573,HTC,,"Android 2.2, Sense UI",false,6250.01
+574,Realme,Rubber,"Android 10, Realme UI",false,5810.37
+575,Sharp,Brass,Feature phone,true,2885.72
+576,Gigabyte,Glass,Microsoft Windows Mobile 6.1 Professional,,2528.3
+577,,Vinyl,"Android 2.2, Sense UI",true,9226.02
+578,verykool,,Feature phone,true,5761.67
+579,Posh,Glass,Android 5.1,true,3634.2
+580,Samsung,Steel,Feature phone,true,504.43
+581,Vodafone,Granite,Feature phone,false,1123.35
+582,XOLO,,Android 4.4.2,true,6359.99
+583,QMobile,Stone,"Android 4.2, up to 4.4",false,4378.42
+584,Samsung,Glass,Android 4.4.4,false,2070.38
+585,Micromax,Brass,Feature phone,true,
+586,Realme,Wood,"Android 9.0, up to Android 10, Realme UI",false,2837.07
+587,,Brass,"Symbian OS 9.2, Series 60 v3.1 UI",false,685.83
+,Orange,Steel,,true,1778.91
+,Nokia,Stone,"Symbian^3, up to Nokia Belle Refresh",true,2243.3
+590,Asus,Granite,"Android 5.0.1, up to 6.0.1, ZenUI",true,1378.21
+591,BLU,Aluminum,Feature phone,false,9358.21
+592,Telit,Plexiglass,Feature phone,false,3572.13
+593,ZTE,Plastic,Android 4.4.2,true,
+594,Sharp,Plastic,Android 8.0,false,
+595,,Granite,"Android 10, ColorOS 7.2",true,
+,alcatel,Vinyl,Android 4.2,true,3879.89
+597,Realme,Stone,"Android 10, Realme UI",false,3954.74
+598,,Granite,Android 5.1.1,false,5868.87
+599,BLU,Glass,Feature phone,false,2785.21
+600,vivo,Wood,"Android 9.0, up to Android 10, Funtouch 10",true,6025.73
+601,,Wood,Feature phone,false,4193.13
+602,Huawei,Granite,,true,4040.19
+603,Sewon,,Feature phone,true,7458.0
+604,vivo,Granite,"Android 10, Funtouch 11",true,9096.59
+,Amazon,,"Android 4.4, Fire 4",true,7116.53
+606,Nokia,Aluminum,Feature phone,false,7447.19
+607,Siemens,Granite,Feature phone,true,9350.59
+608,T-Mobile,Wood,Android 1.5,false,3458.88
+609,Samsung,Plastic,Feature phone,false,9810.49
+610,,,,true,6517.65
+611,BLU,Brass,,true,4977.65
+612,Sony,Wood,Feature phone,,1825.15
+613,Vodafone,Granite,,true,7519.95
+614,Motorola,Wood,Feature phone,true,7701.67
+615,,Rubber,"iOS, up to iOS 3.1.3",true,2320.8
+,LG,Brass,Android 9.0,false,319.39
+617,LG,Glass,,true,1741.37
+618,Siemens,Wood,Feature phone,true,2508.13
+619,Apple,Plastic,"iOS 4, up to iOS 7.1.2",true,7365.76
+620,Kyocera,Stone,"Android 2.2, up to 2.3",false,1310.79
+621,Samsung,,Feature phone,false,2181.98
+622,,Granite,Feature phone,,1430.58
+623,alcatel,Steel,Android 2.3,true,1302.21
+624,Motorola,Aluminum,"Android 3.2, up to 4.0.4",false,7063.5
+625,vivo,Rubber,Android 4.2.2,true,4968.29
+,LG,Rubber,,false,
+627,ZTE,Rubber,Android 4.0,false,6920.95
+628,Nokia,Steel,"Android 9.0 Pie, up to Android 10",false,2891.16
+,Asus,Stone,"Android 6, ZenUI 3",false,5989.27
+630,HTC,Aluminum,Microsoft Windows Mobile 6.0 Standard,false,7603.39
+631,Motorola,Plastic,Feature phone,true,2778.16
+632,NEC,Wood,Feature phone,false,3841.27
+633,Nokia,Stone,"Symbian 9.4, Series 60 rel. 5",true,2649.8
+634,Coolpad,Rubber,Android 7.1,false,4704.11
+635,ZTE,Rubber,Android 4.0,false,5178.05
+636,Karbonn,Vinyl,Android 4.0,true,1609.07
+637,Sony,Glass,Feature phone,,2296.44
+638,,,,true,8528.97
+,BLU,Granite,Feature phone,false,2000.7
+640,Asus,Granite,Android 4.4,true,3614.83
+641,,Vinyl,Android 6.0.1,false,8878.09
+642,Nokia,Brass,"Symbian, S60 rel. 3.2",true,9014.99
+643,vivo,Aluminum,"Android 10, Funtouch 10.0",false,8774.59
+644,LG,Plastic,Android 9.0,,6535.86
+645,Panasonic,Glass,Feature phone,,3310.0
+646,Motorola,,Feature phone,true,3244.83
+647,Samsung,Plexiglass,Android 4.4.2,false,7100.49
+648,Huawei,Plastic,Feature phone,false,4469.3
+649,Amoi,Rubber,Microsoft Windows Mobile 5.0 Phone Edition,false,696.35
+650,ZTE,Wood,"Android 5.1, up to 6.0, MiFavor 3.2",true,1592.77
+,Nokia,Rubber,"Symbian Belle, up to Belle FP1",true,391.85
+652,Maxwest,Rubber,Feature phone,true,
+653,Vodafone,Wood,Feature phone,false,251.81
+654,LG,Plexiglass,Android 6.0.1,,3145.83
+655,Micromax,Rubber,Feature phone,true,3600.4
+656,Vodafone,Vinyl,Android 2.1,true,5523.68
+657,Sharp,Rubber,Feature phone,false,
+658,Maxwest,Glass,Android 4.2.2,true,5225.29
+659,Samsung,Plexiglass,Feature phone,false,5831.34
+660,LG,Granite,Feature phone,false,3559.39
+661,HTC,Plexiglass,"Android 2.1, up to 2.3.6",true,3829.47
+662,Asus,Wood,Android 5.1,true,7747.58
+,alcatel,Rubber,Feature phone,true,2848.43
+664,Huawei,Rubber,,false,798.6
+665,Panasonic,Plexiglass,"Android 4.4.2, up to 5.0",,5824.04
+666,Spice,,Android 4.4,true,6709.37
+667,Sony,Steel,"Android 6.0.1, up to 7.0",false,2649.89
+668,Samsung,Aluminum,bada OS,false,7946.56
+669,,Rubber,Feature phone,,3128.39
+670,Maxwest,,Feature phone,true,6353.84
+671,,Stone,Feature phone,true,3206.01
+672,Samsung,Rubber,"Android 6.0, up to Android 8.0, TouchWiz UI",true,2809.07
+,LG,Glass,Feature phone,false,3950.45
+674,alcatel,Plastic,Feature phone,false,8701.32
+675,Philips,Vinyl,,false,3555.4
+676,Lenovo,Plastic,"Android 6.0.1, up to 7.1.1",,8354.25
+677,,Aluminum,,false,
+678,Samsung,Granite,"Android 10, up to Android 11, One UI 3.0",false,6987.02
+679,Xiaomi,Plexiglass,"Android 4.2, up to 4.4.4, MIUI 9.2",false,8257.6
+,BLU,Vinyl,Feature phone,,4492.53
+,alcatel,Plexiglass,Android 4.0,true,3029.02
+682,Energizer,Brass,Android 9.0,false,8512.84
+683,Vodafone,,Feature phone,,5761.74
+684,alcatel,Granite,Android 2.3.5,true,8654.93
+685,,,Android 7.0,true,2370.6
+686,,Glass,Android 5.1,true,6355.52
+,Nokia,Vinyl,Feature phone,,6919.1
+688,Unnecto,Aluminum,Android 5.1,true,781.75
+689,Meizu,Wood,"Android 6, Flyme 7.3",true,7913.15
+690,,Plexiglass,Android 4.2.2,false,8097.03
+691,Samsung,Glass,"Android 5.1.1, up to 7.0, TouchWiz UI",false,5235.48
+692,Tecno,Glass,,false,2144.09
+693,Xiaomi,,"Android 4.4.4, MIUI 6",true,8275.87
+694,,,"Android 9.0, Funtouch 9.1",true,6752.5
+,,Plastic,Android 2.1,,4997.89
+696,TCL,Plastic,Proprietary OS,true,9498.09
+697,Samsung,,,,7337.45
+698,NEC,Steel,Feature phone,false,6018.34
+699,LG,Rubber,Microsoft Windows Mobile 6.5 Standard,false,1778.9
+700,,,Feature phone,false,9900.46
+701,Sagem,,Feature phone,true,485.73
+702,Samsung,,"Android 5.0.2, up to 6.0.1, TouchWiz UI",true,7540.86
+703,vivo,,,,5505.16
+704,,Rubber,"Android 4.3, up to 4.4.2",false,5500.02
+705,Sharp,Aluminum,Feature phone,true,2117.06
+706,XOLO,Steel,Android 4.2,true,1160.81
+,XOLO,Brass,Android 4.2,true,887.98
+708,Celkon,Brass,Feature phone,,594.9
+709,Plum,Brass,Android 6.0,false,1570.69
+710,Motorola,Steel,Android Wear OS 2.1,true,9088.33
+711,Huawei,Brass,"Android 2.2, up to 2.3",true,3543.91
+712,Celkon,Granite,Android 4.4.2,false,9176.73
+713,ZTE,Stone,Android 4.0,true,6672.44
+714,TCL,Rubber,"Android 11, TCL UI",true,8285.0
+715,BenQ-Siemens,Plastic,Feature phone,true,4592.7
+,Xiaomi,Rubber,Proprietary OS,false,
+717,Asus,Plastic,"Android 6.0, up to 7.0",false,
+718,i-mate,Wood,Microsoft Windows Mobile 6.0 Professional,true,8453.07
+719,Samsung,Glass,Feature phone,false,6395.52
+720,Xiaomi,Plastic,"Android 6.0.1, MIUI 9.2",true,7406.46
+721,Micromax,Plexiglass,Android 4.4.2,false,6583.59
+722,i-mobile,Glass,Feature phone,false,4292.38
+723,Samsung,Stone,Feature phone,,5946.19
+724,alcatel,Steel,,true,7951.15
+725,verykool,Granite,Android 4.1.2,false,5635.44
+726,BLU,Plexiglass,Android 4.4.2,false,8197.35
+727,Panasonic,Steel,Android 4.4.2,false,9904.63
+728,Motorola,Plexiglass,Android 2.3.6,true,3799.6
+729,Coolpad,Plexiglass,"Android 5.1, Cool UI 8",false,
+730,Posh,Vinyl,Android 4.4.2,false,1646.15
+731,Nokia,,"Symbian 7.0s, Series 60 v2.0 UI",true,4769.15
+,LG,Wood,Android 4.4,,1212.56
+733,Realme,Plastic,"Android 9.0, ColorOS 6.1",true,7549.91
+,Google,Vinyl,"Android 9.0, up to Android 11",true,6480.09
+735,Motorola,Brass,"Android 7.1.1, up to Android 9.0",false,3845.1
+736,Samsung,Vinyl,Android 7.1.1,true,
+,,Granite,Feature phone,false,5261.29
+738,Samsung,Plexiglass,Feature phone,false,7610.78
+739,,Plexiglass,"Android 4.4.2, up to 5.0",true,1863.4
+740,Honor,Steel,"Android 10, Magic UI 3",true,1612.52
+741,Philips,Rubber,Feature phone,true,5050.86
+742,Samsung,Steel,Feature phone,true,4362.06
+743,Samsung,Plastic,"Android 4.0, up to 4.1",false,2705.91
+744,BlackBerry,Aluminum,BlackBerry OS,,632.62
+745,Ericsson,Steel,Feature phone,false,3437.07
+746,Samsung,Brass,Feature phone,false,9193.18
+747,LG,Plastic,Feature phone,true,3573.58
+748,Celkon,Brass,Android 2.2.1,false,
+749,,Steel,Android 6.0,false,7596.73
+,Icemobile,Vinyl,Feature phone,true,6597.38
+751,,Granite,,false,936.98
+,Samsung,Wood,"Android 3.0, up to 3.1",false,5188.92
+753,Plum,Plexiglass,Feature phone,true,173.48
+754,LG,Vinyl,Feature phone,false,4977.11
+755,LG,Vinyl,,false,2548.6
+756,XOLO,Vinyl,Android 5.1,false,
+757,Maxon,,Feature phone,false,4526.3
+,vivo,Aluminum,Android 8.1,false,8937.66
+759,Lenovo,,,true,6367.05
+760,Celkon,,Android 4.4,true,3358.7
+761,,Granite,,false,9269.68
+762,WND,Plexiglass,Feature phone,false,5188.71
+763,Samsung,Glass,Feature phone,,
+764,LG,,Feature phone,true,
+765,BenQ,Wood,Android 4.4.2,false,4856.04
+766,Pantech,,Feature phone,false,7611.03
+767,Philips,Rubber,Feature phone,,2773.37
+768,Palm,Wood,Palm 3.5.2H4,true,9684.17
+769,,,Feature phone,false,5909.54
+770,Telit,Plexiglass,,true,5297.66
+771,Celkon,Plexiglass,Feature phone,true,8274.44
+772,,Aluminum,Feature phone,,3181.88
+773,Kyocera,Wood,Android 4.1.2,false,1860.83
+774,Celkon,Plastic,Feature phone,true,7722.15
+775,VK,Vinyl,Feature phone,false,3814.01
+776,Sagem,,,false,7354.1
+777,Siemens,Steel,Feature phone,true,7526.65
+778,BLU,Aluminum,Android 9.0,false,2013.73
+779,Celkon,Rubber,Feature phone,true,3758.15
+,Samsung,Steel,Feature phone,false,5957.84
+781,Lenovo,Vinyl,"Android 4.1, up to 4.2",false,8055.7
+782,,Rubber,Android 2.2,,795.66
+783,LG,Glass,"Android 7.0, up to Android 9.0",false,7517.08
+784,Energizer,Brass,Android 9.0,true,8258.33
+785,Sony,Steel,,false,4260.16
+786,,Wood,,true,9045.57
+787,BLU,,Android 5.1,true,106.2
+788,alcatel,,Android 5.0,true,7838.85
+789,Siemens,Plexiglass,Feature phone,false,8604.73
+790,LG,Vinyl,Feature phone,false,8250.01
+,LG,Steel,Feature phone,,4923.48
+792,,Plastic,Android 6.0,false,3376.7
+793,alcatel,Wood,Android 2.3.5,false,
+,Vodafone,,Android 9.0,false,8775.13
+795,Haier,Steel,Feature phone,false,2869.73
+796,Sharp,Aluminum,Android 7.0,false,769.5
+,Motorola,,Feature phone,true,7500.2
+798,verykool,Wood,"Android 4.4.2, up to 5.0",true,
+799,Huawei,Steel,"Android 8.0, EMUI 8",false,8138.21
+800,Sagem,Rubber,Feature phone,true,6416.98
+801,,Granite,Android-based OPhone 2.0,true,3361.4
+802,Lava,Rubber,Android OS,false,3689.96
+803,,,Android 4.4.2,true,
+804,,Plexiglass,"Android 9.0, EMUI 9",true,6479.65
+805,Nokia,Rubber,Feature phone,false,2332.73
+806,Samsung,Glass,Feature phone,false,5564.99
+807,Icemobile,Stone,Feature phone,,1420.75
+808,Posh,Plexiglass,Android 4.4.2,false,8711.88
+809,Haier,Steel,Feature phone,false,3493.2
+,Siemens,Aluminum,Microsoft Windows Mobile 2003 SE PocketPC,false,4762.83
+811,Micromax,Steel,Feature phone,true,4332.31
+812,Nokia,Vinyl,Feature phone,true,1052.2
+813,Micromax,Vinyl,,true,5975.35
+814,,Brass,,false,
+815,Oppo,,"Android 8.1, ColorOS 5.2",false,8940.83
+816,Samsung,Plastic,"Tizen 2.3, up to 2.4",true,8907.82
+817,Samsung,Brass,"Android 5.1.1, TouchWiz UI",false,3850.25
+818,,Plexiglass,Feature phone,false,6072.9
+819,,,"Android 10, EMUI 10, no Google Play Services",false,
+820,Google,Brass,Android 11,false,
+821,,Glass,Feature phone,,3497.97
+822,Nokia,Plexiglass,,true,3042.32
+823,Posh,Aluminum,,true,8569.32
+824,,Plexiglass,Microsoft Windows 8.1,true,8091.35
+825,vivo,,,true,6236.25
+826,VK,Plastic,Feature phone,false,5240.37
+827,ZTE,Plastic,"Android 6, nubia UI 4",false,2424.5
+828,LG,,Feature phone,false,1478.98
+829,Nokia,Plexiglass,Feature phone,false,7318.67
+830,Mitac,Aluminum,Windows Mobile 6.1 Professional,true,4209.18
+831,Motorola,Rubber,Feature phone,false,1287.72
+832,Motorola,Wood,,true,2633.78
+,Sony,Glass,Feature phone,false,1704.63
+834,BLU,Stone,Android 4.4.2,false,8131.39
+835,Huawei,Plexiglass,,true,9146.25
+836,Dell,,Android 4.2.2,false,3805.67
+837,Micromax,Plexiglass,Android 4.0.4,true,8722.72
+838,Archos,,Android 9.0,false,301.53
+839,Apple,Aluminum,"watchOS 3.0, up to 6.2.8",true,1954.5
+840,HTC,Glass,Microsoft Windows Mobile 5.0 for &hellip;,false,6146.96
+841,Sony,Plexiglass,Feature phone,true,
+842,Oppo,Rubber,"Android 11, ColorOS 11.1",true,3561.21
+843,NEC,Plexiglass,Feature phone,false,2433.78
+844,Sony,Stone,Feature phone,false,7269.34
+845,,Brass,Feature phone,true,4953.38
+846,Samsung,Vinyl,"Android 4.4.2, TouchWiz UI",false,7130.5
+847,Nokia,Stone,Microsoft Windows Phone 7.5 Mango,true,7174.76
+,Lava,Plastic,Android 6.0,true,3399.12
+849,Huawei,Glass,Proprietary OS,true,4820.99
+,BlackBerry,Wood,"Android 7.1, up to Android 8.1",true,1758.21
+851,BLU,,Android 8.1 Oreo,false,3921.87
+852,,Glass,Android 4.2.2,false,4679.6
+853,Panasonic,Rubber,Feature phone,true,1449.95
+854,Samsung,Glass,Feature phone,false,8861.3
+855,LG,,"Android 4.4.2, LG Optimus UI",false,5326.29
+,Micromax,Steel,Android 2.3.6,false,7114.76
+857,BLU,Steel,Android 5.1,false,3452.34
+858,Micromax,Brass,Android 5.0.2,true,6853.68
+859,Nokia,Stone,Feature phone,false,6586.52
+860,O2,Vinyl,Microsoft Windows Mobile 5.0 Smartphone,,8141.95
+861,Xiaomi,Plastic,"Android 10, MIUI 11",true,1734.59
+862,Samsung,,Feature phone,true,
+863,Nokia,Steel,"Symbian 7.0, UIQ v2.1 UI",true,3478.34
+864,,Plastic,,true,1306.99
+865,Maxon,Brass,Feature phone,false,6658.06
+866,Lenovo,,"Android 5.2, up to 6",false,8880.9
+867,Siemens,Stone,Feature phone,true,4153.47
+868,verykool,Granite,Feature phone,false,6970.44
+869,Xiaomi,Vinyl,"Android 9.0, up to Android 10, MIUI 12",,8191.02
+870,Samsung,Aluminum,Feature phone,false,5922.42
+871,ZTE,Plexiglass,Android 8.1,,523.65
+872,verykool,Brass,Android 4.2.1,,4945.51
+873,O2,Glass,Microsoft Smartphone 2003 SE OS,false,3342.77
+874,Microsoft,Vinyl,Microsoft Windows Phone 8.1,,1705.78
+875,,Steel,Android 4.4.2,true,8174.36
+876,alcatel,Wood,Feature phone,false,8892.65
+,LG,,Android 4.4.2,true,4283.79
+878,Huawei,Wood,"Android 8.0, EMUI 8",false,6386.57
+879,,Wood,Android 4.0.4,true,6328.21
+880,Samsung,,Feature phone,false,6045.54
+881,Xiaomi,Aluminum,"Android 9.0, up to Android 10, MIUI 12",false,4866.76
+,LG,Steel,,true,5475.4
+883,Xiaomi,Vinyl,,true,2695.2
+884,Micromax,Stone,Feature phone,,2768.05
+885,Celkon,Aluminum,Android 4.0,false,528.66
+886,,Granite,Proprietary OS,false,
+,Nokia,Stone,,false,7019.49
+,Huawei,Plexiglass,Android 2.2,true,3343.82
+889,Vertu,Aluminum,Android 5.1,,
+890,Motorola,Aluminum,"Android 2.1, up to 2.2",true,3666.17
+891,Panasonic,Stone,,false,3380.19
+,Samsung,Plastic,Feature phone,false,3744.97
+893,Samsung,Stone,"Android 2.3, up to 4.1.2, TouchWiz UI 4",,5332.4
+,Plum,Granite,Android 4.2.2,false,866.08
+895,BlackBerry,Brass,"Android 5.1.1, up to 6.0.1",false,2664.25
+896,Palm,Rubber,Microsoft Windows Mobile 5.0 PocketPC,true,5861.43
+897,Samsung,Glass,"Android 6.0, up to Android 8.0, TouchWiz UI",false,4352.62
+898,Motorola,Aluminum,Feature phone,true,
+899,Sony,Plastic,Feature phone,,9313.33
+900,ZTE,Brass,,false,2365.75
+901,Maxwest,Wood,Android 5.1,false,1074.9
+902,HTC,Vinyl,"Android 2.1, Sense UI",false,6506.09
+903,BLU,Glass,Android 6.0,false,
+904,XOLO,Stone,,true,3329.47
+905,OnePlus,Aluminum,"Android 6.0.1, up to Android 9.0",true,7659.54
+906,Asus,Vinyl,"Android 4.1.2, up to 5.1.1",true,1697.57
+907,Samsung,Vinyl,Android 10,true,6511.05
+908,alcatel,Aluminum,Android 9.0 Pie,true,3603.18
+909,Acer,Glass,Android 5.0,true,8039.97
+910,ZTE,Rubber,"Android 5.1, up to 6.0.1",false,5126.57
+911,LG,Granite,Android 2.2,false,9757.87
+912,Wiko,Aluminum,Android 9.0 Pie,true,
+913,,,"Android 10, Funtouch 10.0",false,742.47
+,Sendo,Stone,Feature phone,,9465.91
+915,Samsung,Brass,"Android 4.4.4, up to 5.1.1",false,6329.46
+916,Icemobile,Granite,Android 2.3,false,9933.79
+917,Sony,Granite,,false,1713.99
+918,Oppo,Plexiglass,"Android 9.0, ColorOS 6",true,5210.44
+919,Posh,,,true,5925.1
+920,alcatel,Aluminum,Android 5.1,true,6190.14
+921,Samsung,Plexiglass,Feature phone,false,5666.86
+922,BLU,Rubber,Feature phone,false,7708.22
+923,Gigabyte,Stone,Microsoft Windows Mobile 6.1 Professional,true,8765.13
+924,Motorola,Glass,Feature phone,false,9409.79
+925,Allview,Stone,Microsoft Windows Phone 8.1,false,5888.41
+926,Plum,Rubber,Feature phone,true,1280.09
+927,Sagem,Rubber,Feature phone,false,9617.45
+928,Nokia,,Symbian Anna OS,true,8040.41
+929,,Glass,Feature phone,true,3922.02
+930,,Aluminum,Proprietary OS,true,2324.1
+,Haier,,,false,6972.34
+932,alcatel,Steel,Android 4.1,true,6374.66
+933,Samsung,Steel,"Android 4.4, TouchWiz UI",true,3086.17
+934,Yezz,Rubber,Android 4.4.2,false,9290.8
+935,Asus,Steel,"Android 3.0, 3.2, up to 4.0",false,9293.79
+936,O2,Plexiglass,Feature phone,false,5942.45
+937,Samsung,Wood,LiMo OS,false,5720.48
+938,LG,Aluminum,"Android 4.1.2, LG Optimus UI 3",false,7550.21
+939,Celkon,Vinyl,Feature phone,true,8361.87
+940,Samsung,,Feature phone,false,8055.09
+941,Maxon,Stone,Feature phone,false,5854.69
+942,,Wood,Android 4.3,false,7373.36
+943,Motorola,Brass,Android 6.0.1,true,3956.32
+944,YU,,Android 7.0,true,5037.34
+945,Icemobile,Vinyl,Feature phone,false,8799.07
+946,Panasonic,,"Symbian 7.0s, Series 60 UI",false,
+947,vivo,Granite,"Android 5.1, Funtouch 2.5",true,2619.03
+948,Sagem,Stone,Feature phone,false,4697.37
+949,Yezz,Granite,Android 5.1,true,5346.57
+950,Realme,Aluminum,Proprietary OS,true,9306.05
+951,HTC,Vinyl,Android 4.1.2,false,7211.48
+,,,Android 2.3,false,8697.23
+953,QMobile,Stone,Android 4.2,false,594.41
+954,LG,Steel,"Android 9.0, up to Android 10, LG UX 10.0",false,6206.33
+955,BLU,Wood,Feature phone,true,3723.14
+,Philips,Steel,Feature phone,false,1974.62
+957,,Steel,"Microsoft Windows Phone 8, up to 8.1",false,9749.2
+958,,Aluminum,Microsoft Windows Phone 8.1,,4074.97
+959,Motorola,Wood,"Android 10, up to Android 11",true,
+960,Nokia,Wood,"Android 10, up to Android 11",false,3890.45
+961,ZTE,Vinyl,,false,9905.62
+962,Ulefone,,Android 10,true,5535.99
+963,Motorola,Rubber,"Android 8.0, up to Android 9.0",,7554.42
+964,O2,Granite,Microsoft Windows Mobile 5.0 PocketPC,,772.59
+965,,Rubber,Feature phone,false,1087.18
+966,Huawei,Steel,"Android 7.0, EMUI 5.1",true,
+967,Oppo,Glass,"Android 10, ColorOS 7.2",false,4147.58
+968,Wiko,Steel,Android 6.0.1,false,7107.34
+969,Honor,Brass,"Android 10, Magic UI 2",true,8814.16
+,BLU,,Android 7.0,true,6510.18
+971,BLU,Vinyl,Android 4.2,true,4845.07
+,Micromax,Glass,Feature phone,true,8596.71
+,Chea,Wood,Feature phone,true,3608.62
+974,Acer,Vinyl,Microsoft Windows Mobile 6.5 Professional,false,4948.79
+975,,Aluminum,Linux,false,472.64
+976,LG,Aluminum,Feature phone,true,
+,Asus,,Android 4.0,,1881.99
+978,Samsung,Glass,"Android 3.2, TouchWiz UX UI",false,6726.73
+979,Gionee,Vinyl,"Android 7, Amigo 4",,8437.94
+980,Samsung,Stone,,true,4777.68
+981,Coolpad,Brass,Android 7.0,true,3702.89
+982,,Glass,Android 5.1,false,3555.32
+983,Emporia,,Feature phone,false,5080.11
+984,i-mate,Glass,Microsoft Windows Mobile 6.0 Professional,false,7379.66
+985,Sendo,,Feature phone,true,7605.54
+986,Micromax,Plastic,Feature phone,true,
+987,Gigabyte,Plexiglass,Android 4.2.2,true,4145.4
+988,Samsung,Steel,Tizen OS 2.3.2,,
+989,Samsung,Granite,Feature phone,false,460.26
+990,alcatel,Brass,Android 4.4.2 / Android 5.0 - 4G model,true,6181.58
+991,QMobile,Wood,Android 4.4.2,true,4836.88
+992,Allview,Brass,Android 4.1.2,false,
+993,alcatel,Steel,Feature phone,false,
+994,Tecno,Vinyl,"Android 9.0, HIOS 5.0",false,8879.3
+995,alcatel,Wood,Android 4.1,true,1743.99
+996,,Steel,,true,3067.36
+997,LG,Rubber,"Android 6.0.1, up to 7.0",false,9625.35
+998,Lava,Aluminum,"Android 5.1, Android One",false,7043.86
+999,,Plexiglass,Android 7.0,true,5793.7
+1000,vivo,Brass,"Android 8.1, Funtouch 4.5",true,9987.19
